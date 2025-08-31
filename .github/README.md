@@ -1,3 +1,3 @@
-# Spicetify-Nix
+# this repository is used for me to use deepwiki and index it.  
 
-See the generated docs: <https://gerg-l.github.io/spicetify-nix>
+## if you wanna use spicetify-nix go to the original version that i forked.
